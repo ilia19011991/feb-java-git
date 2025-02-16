@@ -16,4 +16,12 @@ public class App {
         System.out.println(3);
         System.out.println(4);
     }
+
+    public static void executePayment() {
+        //1
+        //2
+        //3
+        //4
+        //5
+    }
 }
