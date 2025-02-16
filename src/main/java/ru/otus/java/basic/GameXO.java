@@ -11,9 +11,9 @@ public class GameXO {
         System.out.println("x turn");
         System.out.println("o turn");
         aiTurn();
-        System.out.println("check win");
-        System.out.println("try again");
-        System.out.println("end game");
+        System.out.println("check win1");
+        System.out.println("try again1");
+        System.out.println("end game1");
     }
 
     public static void aiTurn() {
