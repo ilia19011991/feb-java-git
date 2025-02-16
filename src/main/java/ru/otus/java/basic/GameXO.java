@@ -11,10 +11,11 @@ public class GameXO {
         System.out.println("x turn");
         System.out.println("o turn");
         aiTurn();
-        System.out.println("check win1");
-        System.out.println("try again1");
-        System.out.println("end game1");
+        System.out.println("check win2");
+        System.out.println("try again2");
+        System.out.println("end game2");
         System.out.println(1);
+        System.out.println(2);
     }
 
     public static void aiTurn() {
