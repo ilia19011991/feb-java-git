@@ -20,7 +20,7 @@ public class App {
     public static void executePayment() {
         //1
         //2
-        //3
+        //3 (изменение)
         //4
         //5
     }
