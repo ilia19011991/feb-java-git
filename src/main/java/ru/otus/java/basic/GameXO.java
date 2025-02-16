@@ -14,6 +14,7 @@ public class GameXO {
         System.out.println("check win");
         System.out.println("try again");
         System.out.println("end game");
+        System.out.println(2);
     }
 
     public static void aiTurn() {
